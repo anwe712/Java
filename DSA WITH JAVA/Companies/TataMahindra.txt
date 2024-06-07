@@ -1,0 +1,61 @@
+Package:
+3.5 LPA (for students clearing regular selection process)
+5.5 LPA (for students clearing Supercoder selection process)
+
+Tech Mahindra Complete Detailed Syllabus 2023
+Logical Ability:
+Analogies
+Coding decoding
+Data sufficiency
+Directional sense
+Symbols directives
+Quantitative Ability:
+Permutations and Combinations
+Time and Work
+Averages
+Logarithms
+Numbers
+Equations
+Probability
+Essay Writing:
+Essay can be asked on any normal topic which is to be written within 25 Min.
+The structure of essay should be short and crips
+Avoid Spelling mistakes
+Avoid Grammatical mistakes
+Computer Programming & Computer Science:
+Programming Fundamentals
+Psuedocode
+Data Types
+Operators
+Arrays
+Functions
+Pointers
+Basics of OS
+Basics of Data Structure
+Loops
+OOPs Concepts
+Stack
+Sorting
+Tree Functions
+Automata:
+Fundamentals of Programming langauges(C, C++, Java)
+Array
+Strings
+Recursion
+Function
+Flow Control
+Linked list
+Graph
+Personality Test:
+You will be given situation-based multiple-choice questions.
+You need to select the most appropriate answer accordingly
+Tech Mahindra Selection Process 2023
+Online test:
+Logical Ability: 12 Que (15 Min)
+Quantitative Ability: 12 Que (15 Min)
+Essay writing: 1 topic (25 Min)
+Technical Section:
+Computer Programming: 12 Que (15 Min)
+Computer Science: 12 Que (15 Min)
+Automata: 2 Que (45 Min)
+Personality test: 72 Que (15 Min)

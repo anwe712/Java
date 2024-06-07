@@ -1,0 +1,50 @@
+Wipro Complete Detailed Exam Syllabus 2023
+Logical Ability:
+Coding Decoding
+Data Sufficiency
+Directional Sense
+Logical Word Sequence
+Selection decision tables
+Puzzles
+Coding pattern and Number series pattern
+Analogy
+Logical word sequence
+Quantitative Ability:
+Divisibility
+HCF and LCM
+Numbers
+Decimal fractions
+Profit & Loss
+Simple & Compound Interest
+Time, Speed & Distance
+Logarithms
+Probability
+P&C
+Verbal Ability:
+Synonyms
+Antonyms
+Contextual vocabulary
+Error identification
+Sentence improvement and correction
+Reading Comprehension
+Programming Test:
+Data Structure Concepts
+Operations on Array
+Questions on Matrices
+Linked list
+Circular linked list
+String
+Stack/Queue
+Sorting and Searching
+Linear and binary search
+Greedy Algorithms
+Wipro Exam Pattern 2023
+1. Online Assessment comprising of 3 sections (Duration-128 minutes):
+Aptitude Test - Logical Ability, Quantitative Ability, Verbal Ability (Duration: 48 mins)
+Written Communication Test - Essay writing (Duration: 20 mins)
+Online Programming Test - Two programs for coding (Duration: 60 mins)
+Note: Candidates can choose any one of the programming languages for the coding test: Java, C, C++, or Python
+
+2. Business Round:
+This round is nothing Technical and HR interview.
+

@@ -1,0 +1,31 @@
+GenC (4 LPA)
+Gen C Pro (5.4 LPA)
+Gen C Next (6.75 LPA)
+
+
+Technical Assessment:
+
+The communication round consists following sections:
+
+There are 3 sections (Duration: 120 minutes)
+
+Section 1: Coding. 
+Section 2: Query-Database/MySQL. 
+Section 3: Knowledge (MCQ's)
+
+
+Registration process for on Campus hiring.
+Screening Round: Resume to be shortlisted. It will be an elimination process.
+Round 1: Communication Assessment: There will be three sections in this assessment and duration will be of 45 minutes. Topics will include Reading and Grammar, Comprehension and Listening, Speaking.
+Round 2: Technical Assessment: There will be three sections in this assessment and duration will be of 120 minutes. Topics will include:
+Coding-Python:
+Data Structures, Functions, Object-Oriented Programming (OOP), File Handling, Libraries and Modules, Exception Handling
+Query - Database / MySQL:
+DDL, DML, DCL, TCL, Understanding Constraints and their Types, SQL Operators, SQL Functions, Clauses in SQL, Joins and their Types, Sub-queries, Views and Indexes
+Knowledge(MCQ'S):
+Unix Commands, Shell Scripting
+Datawarehouse Basics
+ETL Concepts(DW, Data Mart, ODS)
+Cloud Fundamentals
+Round 3: Technical Interview: Technical interview will be based on computer fundamentals, coding language, data skills and cloud.
+Letter of Intent: The organization will extend a job offer to the chosen candidates based on their technical interview, HR interview, and Cognizant exam performance.

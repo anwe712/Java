@@ -1,0 +1,110 @@
+Assessment-1: Written English Test (WET)and Technical MCQ
+Assessment-2: Coding Assessment Coding
+Assessment-3: Spoken English Assessment
+Assessment 4: Technical Interviews
+
+Capgemini Complete Detailed Exam Syllabus 2024
+Capgemini Cognitive Assessment Detailed Syllabus
+Data Structures
+Algorithms
+Fundamentals of database
+Cloud
+Networking
+Capgemini Technical Assessment Detailed Syllabus
+Networking
+Basics of Networking
+Network Security
+Encryption Standards and Algorithms
+Attack Types
+Firewalls
+Database 
+Database relationship
+Database operators
+Normalization
+Joins
+Keys
+Constraints
+Relational Algebra
+Cloud
+Fundamentals of Cloud Computing
+Client Server Architecture
+Cloud Data Centers
+Cloud Service Providers
+Cloud Service Platforms
+Capgemini Aptitude Detailed Syllabus
+Motion Challenge 
+Digit Challenge 
+Switch Challenge 
+Grid Challenge 
+Deductive Reasoning Challenge 
+Inductive Challenge (Similarity Grids)
+Capgemini English Detailed Syllabus
+Reading Comprehension
+Cloze Test 
+Para Jumble / Sentence Arrangement 
+Active / Passive Voice
+Fact, Inference, Judgement 
+Replacement / Sentence Correction
+Synonyms
+Error Spotting
+Capgemini Exam Pattern 2024
+Assessment 1:
+
+ Cognitive Assessment
+
+WET is an assessment which includes essay writing on a given topic
+Technical MCQ:
+
+Data Structures
+Algorithms
+Fundamentals of database
+Cloud
+Networking
+(Note: For roles specific to your streams technical assessment would comprise of stream specific topics)
+
+Technical MCQs (Elimination round)
+Networking
+
+Basics of Networking
+Network Security
+Encryption Standards and Algorithms
+Attack Types
+Firewalls
+Database 
+
+Database relationship
+Database operators
+Normalization
+Joins
+Keys
+Constraints
+Relational Algebra
+Cloud
+
+Fundamentals of Cloud Computing
+Client Server Architecture
+Cloud Data Centers
+Cloud Service Providers
+Cloud Service Platforms
+Note: There is No Negative marking. 
+
+Assessment 2:
+
+Coding Assessment (For Analyst- New Differential Role & Senior Analyst Role)
+
+Coding / Level 2 Technical assessment is a mandatory round and will be applicable for students eligible for higher package roles. Eligibility will be a combination of the student’s performance in their academics and Capgemini Exceller assessments.
+Assessment 3:
+
+Spoken English Assessment
+
+This round will be mandatory but not an elimination round.
+your Communication skills like Reading, Speaking, Listening skills will be tested in this test.
+ 
+
+Technical Interview
+
+Capgemini Interview Questions for Technical Round will be based on subjects of your interest or based on projects you have done. You need to have complete knowledge of all the projects you havewritten in your resume. You will be asked basic questions from C, C++, Pseudo Code, and DBMS, Networking
+
+HR Interview
+
+In this interivew, only communication skills and presentation skills are checked. The questions will be related to your personality, family, education, hobbies, internships, etc. They will also ask questions based on location preference and higher education interest also.

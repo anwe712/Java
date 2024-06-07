@@ -1,0 +1,8 @@
+humesha sochna ek ticket counter k baarein mai and chizze clear ho jayenge 
+
+jo pehle khara hoga woh pehle line se bahar niklega 
+jo last mai hai woh last me niklega 
+nikalne pe deqie hota hai and add hone pe enque
+
+First in, First out” (FIFO)
+

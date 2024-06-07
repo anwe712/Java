@@ -1,0 +1,52 @@
+Total no. of question=	66 MCQ
+Allotted Time= 90 mins
+per question = 1.5min
+
+Marking Scheme	
++5 for correct MCQ
+-2 for incorrect MCQ
+
+
+
+Goldman Sachs Numerical Computation Detailed Syllabus
+Time work
+Percentage
+Ratio
+Divisibility
+Profit Loss
+Fractions
+Problems on Train
+Average
+P&C
+
+Letter Series & Number Series
+Finding missing numbers & letters
+Goldman Sachs Comprehension:
+2 passages will be there. Each passage will be having 5 questions.
+
+
+Figure based questions like-
+
+Number of triangles
+folding-unfolding of cut figures
+coding-decoding
+Goldman Sachs Diagrammatic Reasoning Detailed Syllabus
+Figure based questions like-
+
+Operators
+symbols
+Circuit diagram based questions
+Switch
+Bulb
+And/Or operator based circuit diagram questions
+Dice
+Flowchart based questions
+
+Logical Reasoning:
+Seating arrangements
+Data interpretation
+Coding-Decoding
+Calendar
+Direction sense
+Clock
+

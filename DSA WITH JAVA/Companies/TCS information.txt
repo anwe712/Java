@@ -1,0 +1,92 @@
+TCS NQT EXAM :
+The TCS NQT test consists of two main rounds: the foundation round and the advanced round.
+
+
+3 ROUNDS :
+an online test
+a technical interview
+managerial interview
+HR interview
+
+
+TCS NQT Numerical Ability Topics
+Arrangements and Series
+P&C (Permutations and Combinations)
+Number System, LCM & HCF (Highest Common Factor)
+Percentages
+Allegations and Mixtures
+Probability
+Ratios, Proportions, and Averages
+Reasoning
+Work and Time
+Speed Time and Distance
+Geometry
+Divisibility
+Profit and Loss
+Ages
+Clocks & Calendar
+Series and Progressions
+Equations
+Averages
+Area, Shapes & Perimeter
+Numbers & Decimal Fractions
+
+
+TCS NQT Programming Logic Topics
+Data Types
+Input-Output (based on C)
+Functions and Scope
+Variables and Registers
+Command Line Programming
+Pointers
+Inbuilt Libraries (based on C)
+Call by value/reference
+Iteration
+Recursion
+
+
+
+TCS NQT Reasoning Ability Topics
+Meaningful Word Creation
+Number Series – Missing Number Single, Missing Number Analogy
+Data Sufficiency – Rank-Based Logic, Ages
+Blood Relations
+Coding-Decoding
+Ages
+Odd Man Out – Numbers, Logical
+Distance and Directions
+Statement and Conclusion
+Seating Arrangement (Easy)
+Seating Arrangement (Complex)
+Analogy
+Mathematical Operational Arrangement
+Symbols and Notations
+
+TCS NQT Verbal Ability Topics
+Synonyms
+Antonyms
+Prepositions
+Sentence Completion
+Active and Passive Voice
+Spelling Test
+Spotting Errors
+Passage Completion
+Substitution
+Sentence Arrangement
+Transformation
+Idioms and Phrases
+Sentence Improvement
+Para Completion
+Joining Sentences
+Error Correction (Underlined Part)
+Error Correction (Phrase in Bold)
+Fill in the blanks
+
+
+
+TCS NQT Coding Topics
+C++
+Java
+C
+Perl
+Python
